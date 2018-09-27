@@ -1,1 +1,3 @@
 # React-Native
+
+DOES NOT WORK - INDEFINITELY PAUSED
